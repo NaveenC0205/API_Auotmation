@@ -1,0 +1,17 @@
+#email - check
+
+Verify user can able to get the email-templates using GET Call
+Verify response code is 200 for get-email templates API call
+Verify user can able to fetch ID,NAME,DATA from email-Template GET API CALL
+Verify user can able to get the email-templates-id using GET Call
+Verify response code is 200 for get-email--id templates API call
+Verify response code 500 for invalid email_template_ID
+Verify user can able to fetch email template for all ID from Email-Template API call
+
+
+#Campains
+
+Verify user able to POST campains using valid ID of emailtemplate,recipientsid,name
+Verify user able to Update name using PATCH call for the newly created camapins
+Verify name of campains reflect with updated name un PATCH API call response
+Verify updated new names are reflected while using GET campains details
