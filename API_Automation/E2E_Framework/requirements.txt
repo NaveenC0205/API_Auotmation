@@ -1,0 +1,12 @@
+requests==2.31.0
+pytest-ast-transformer==1.0.3
+pytest-forked==1.6.0
+pytest-html==4.1.1
+pytest-metadata==3.0.0
+pytest-soft-assertions==0.1.2
+pytest-xdist==3.5.0
+python-dotenv==1.0.0
+pytest-rerunfailures==10.3
+allure-pytest
+allure-python-commons
+selenium ==4.15.2
