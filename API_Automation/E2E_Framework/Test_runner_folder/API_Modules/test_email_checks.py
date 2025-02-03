@@ -5,6 +5,7 @@ from API_Automation.E2E_Framework.A_centrlized_file import api_ulits
 from API_Automation.E2E_Framework.A_centrlized_file.api_ulits import validate_response_code
 from API_Automation.E2E_Framework.base_config import Env, clients
 from API_Automation.E2E_Framework.logger_config import logger
+from API_Automation.E2E_Framework.Test_runner_folder.config.my_config import *
 
 baseURLs = get_URL(Env, clients)
 
